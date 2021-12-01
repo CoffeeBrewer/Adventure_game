@@ -7,6 +7,6 @@ You wake up in a field, or a barn.
 You are freezing to death, and have no idea where you are.
 You have to find your phone, but first your pincode, in that order!
 To do so, one can choose at the beginning between the farmer and the priest.
-The farmer has the phone, the priest the pincode. ,/P>
+The farmer has the phone, the priest the pincode. </p>
   
 <p> In this game there are different random situations and choices to be made.</p>
